@@ -1,0 +1,4 @@
+rootProject.name = 'jenkins-demo'
+include 'server'
+include 'client'
+
